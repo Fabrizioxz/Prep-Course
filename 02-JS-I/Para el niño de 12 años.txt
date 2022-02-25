@@ -1,0 +1,27 @@
+Variables:
+	Una variable es una forma de almacenar un valor de algo. que podriamos usar cuando lo necesitemos. es como si fuera una mochila
+	en el que guardas tus libros o lo que sea. La variable necesita de un nombre, en este caso seria "mochila".
+Strings:
+	Son bloques de texto que siempre estan entre comillas " "
+
+Funciones (argumentos, return)
+	Funciones: Las funciones son un tipo de objetos invocables que nos sirven para interactuar con las variables.Estos requieren de 
+	un nombre, unos parentesis ()  y corchetes, en los cuales dentro estaran las interacciones que realizara.
+	
+	Argumentos: Los argumentos son valores que se le requerira a la funcion  para realizar ciertas interacciones, operaciones. 
+	Estos argumentos se ponen dentro de los parentesis. En el argumento tambien podriamos poner una variable para que tome
+	su valor.
+	
+	Return: Es una declaracion que retorna un valor que queramos de la funcion. Si quisieramos imprimir algun valor de alguna variable
+	que se encuentre dentro de una funcion no podriamos.Porque no se puede acceder a los datos de una funcion debido al 
+	alcance ("Scope"). es por ello que se usa el return para conseguir dicho dato que quisieramos. 
+	Al momento de que la funcion se encuentre con el return. se terminara la funcion y devolvera el valor al ser invocada.
+	Podriamos hacer que una variable obtenga el valor de una funcion para asi imprimirlo
+	
+	
+Declaraciones if:
+	La declaracion if es una forma de verificar si algo cumple con el requisito, un ejemplo seria si es mayor de edad una persona.
+	En el caso que cumpla, soltaria un true, en el caso que no cumpliera soltaria un false.
+Valores booleanos (true, false)
+	Los valores booleanos provienen de logica de bole, es codigo binario , nucleo de las computadoras. Estos son muy antiguos y 
+	tienen 2 opciones activar o desactivar. 0 o 1, verdadero o falso. En javascript se usa para asignar verdadero o falso.
