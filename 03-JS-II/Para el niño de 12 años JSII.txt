@@ -1,0 +1,16 @@
+for
+	es una forma de hacer un bucle infinito mientras que su condicion sea verdadera, el for tiene parentesis y corchetes similar
+	a la funcion, entre los parentesis necesita 3 cosas que son instanciar una variable, una condicion que se ejecutara mientras sea
+	verdadera y un incremento de dicha variable, se deben separar con punto y coma. Hay que tener cuidado con la condicion porque
+	si siempre es verdadera puede saturar tu computadora ya que se estara realizandolo infinitamente. por lo que siempre hay que
+	instanciar un limite para que la condicion se vuelva false y deje de ejecutarse.
+&&,
+	Es un operador que es como decir "y..." o "And" este operador evaluara las expresiones dadas y verificara si ambas son verdaderas
+	en caso de que una sea falsa, este devolvera falso.
+ ||,
+	Es un operador que significa "ó", "Or". Esta determina si una o ambas expresiones son verdaderas. En caso de que las 2 sean falsas
+	retornara falso. pero si se cumple de una de las dos returnara verdadero.
+ !
+	Esto lleva todo al contrario este es como decir "No", esto hace que el valor booleano sea el opuesto al que deberia.
+	por ejemplo si tienes un true puedes volverlo falso. Como tambien tener un falso volverlo  verdadero. Es importante que lo que
+	quieras cambiar, esté entre parentesis.
