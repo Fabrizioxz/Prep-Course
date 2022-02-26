@@ -1,0 +1,32 @@
+Objetos
+	Es otra forma de guardar mucha informacion sobre una cosa. A diferencia de los array este no cuenta con un
+	orden numerico. Los elementos se guardan en "Clave:Valor", La clave (key) es el que identifica el elemento, 
+	mientras que el Valor(value) es el dato que contiene dicho elemento. Un ejemplo puede ser 
+	Apellidos : "Gonzales Ramirez".Apellidos es la clave y  "Gonzales Ramirez" es el valor. 
+	A diferencia de los arreglos los elementos se separan por comas.
+	
+Propiedades
+	La propiedad basicamente son las claves que contiene un objeto. un ejemplo la propiedad Nombre y propiedad
+	apellidos dentro de un Objeto llamado Alumno.
+
+Métodos
+	Los metodos son funciones guardadas dentro de un objeto. Pueden ser utilizados como valor para una propiedad.
+
+Bucle for…in
+	El bucle for..in sirve para iterar cada par clave-valor de nuestro objeto. Como no tienen un orden numerico a diferencia de un
+	arreglo, esta sintaxis nos sirve para realizar lo mismo.entre los parentesis de for se declara una variable seguido de la palabra
+	clave "in" y el nombre del objeto. Este metodo recorre cada clave del objeto y termina cuando se hayan iterado todas las claves.
+
+Notación de puntos vs notación de corchetes: 
+	Ambas sirven para acceder a las "clave:valor" de un objeto
+
+	La notacion de puntos: 
+	- Es mas facil de escribir y de leer. 
+	- Tiene problemas al usarse con variables o argumentos en una funcion.
+
+	La notacion de corchetes: 
+	- Es como llamar a un elemento en una matriz
+	- Se usa generalmente con variables,
+	- Tambien sirve cuando no conocemos el nombre de dicha propiedad por lo que la propiedad que queremos la  podriamos poner 
+	dentro de comillas.
+	-Es mas lenta de escribir ya que hay que ponerlas las claves dentro de corchetes.
