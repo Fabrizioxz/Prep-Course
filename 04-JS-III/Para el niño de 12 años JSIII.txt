@@ -1,0 +1,8 @@
+Arrays:
+	 Un array es una forma de guardar multiples valores en una variable por ejemplo la lista de compras, lista de estudiantes.
+	 Son matrices que sirven como contenedores de datos, puede ser cualquier tipo de dato que se establece dentro de las [], separadas
+	por una coma (,). El array tambien puede definirse el tipo si lo deseamos pero por lo general puede guardar lo que sea un numero,
+	un booleano, o Strings. El orden numerico de los elementos guardados en una matriz siempre empieza en 0, el segundo es el 1,
+	el que le sigue es el 2 y asi sucesivamente. Esto nos servira para cuando queramos consultar un valor dentro de la matriz llamandole
+	por su indice numerico.
+	
