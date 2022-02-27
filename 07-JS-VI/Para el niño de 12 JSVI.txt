@@ -1,0 +1,4 @@
+Funciones Callback :
+	Permiten pasar una funcion como argumento a otra funcion, hay metodos que se les conoce como metodos de orden superior
+	porque toman los callbacks como argumentos. Como por ejemplo .forEach , .reduce , .map. Es una forma mas rapida de realizar
+	el codigo.
