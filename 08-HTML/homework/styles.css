@@ -1,0 +1,16 @@
+h1{
+    color: limegreen;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: antiquewhite;
+    padding: 50px;
+    border: 2em rebeccapurple solid;
+}
+#spanID{
+    margin: 50px;
+}
