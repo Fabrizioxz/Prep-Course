@@ -24,29 +24,29 @@ I. Cree una página HTML básica.
 
 ```
 II Añade un poco de estilo
-  A. Agregue la etiqueta de estilo a su documento HTML.
-  B. Asignar al tercer div el id "thirdDiv".
-  C. Asignar a los otros divs la clase "divClass".
-  D. Asignar al span que se encuentra dentro de su segundo div el id "spanId".
-  E. Agregue una regla de estilo a su elemento h1 cambiando el color del texto (Listado de colores: https://www.crockford.com/wrrrld/color.html).
-  F. Agregue una regla de estilo al elemento img dándole un ancho de 400px.
-  G. Agregue una regla de estilo a 'thirdDiv' cambiando la altura a 600px y el ancho a 500px.
-  H. Agregue una regla de estilo a 'thirdDiv' cambiando el color de fondo por el que quiera.
-  I. Cambie el tamaño de la fuente para 'spanId' a 18px.
-  J. Asignar al id 'spanId' un margen de 50px.
-  K. Asignar al id 'thirdDiv' un relleno (padding) de 50px.
-  L. Asignar al id 'thirdDiv' un borde con cualquier ancho de color y estilo que elija.
+  A. Agregue la etiqueta de estilo a su documento HTML. V
+  B. Asignar al tercer div el id "thirdDiv".  V
+  C. Asignar a los otros divs la clase "divClass". V
+  D. Asignar al span que se encuentra dentro de su segundo div el id "spanId". V
+  E. Agregue una regla de estilo a su elemento h1 cambiando el color del texto (Listado de colores: V https://www.crockford.com/wrrrld/color.html).
+  F. Agregue una regla de estilo al elemento img dándole un ancho de 400px. V
+  G. Agregue una regla de estilo a 'thirdDiv' cambiando la altura a 600px y el ancho a 500px. V
+  H. Agregue una regla de estilo a 'thirdDiv' cambiando el color de fondo por el que quiera. V
+  I. Cambie el tamaño de la fuente para 'spanId' a 18px. V
+  J. Asignar al id 'spanId' un margen de 50px. V
+  K. Asignar al id 'thirdDiv' un relleno (padding) de 50px. V
+  L. Asignar al id 'thirdDiv' un borde con cualquier ancho de color y estilo que elija. V
 ```
 
 ```
 III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anteriores a la nueva hoja de estilo.
-  A. Cree un archivo llamado styles.css en esta carpeta.
-  B. COPIE todas sus reglas de estilo en este nuevo archivo.
-  C. Agregue una etiqueta de enlace a su html que importe su nuevo archivo css.
+  A. Cree un archivo llamado styles.css en esta carpeta. V
+  B. COPIE todas sus reglas de estilo en este nuevo archivo. V 
+  C. Agregue una etiqueta de enlace a su html que importe su nuevo archivo css. V
 ```
 
 ```
-IV. Suba su trabajo a su repositorio de github`
+IV. Suba su trabajo a su repositorio de github` V
 ```
 
 ### Crédito adicional:
